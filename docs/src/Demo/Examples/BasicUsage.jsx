@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import moment from 'moment';
+import 'moment/locale/de';
 import { Typography } from 'material-ui';
 import { TimePicker, DatePicker } from 'material-ui-pickers';
 
