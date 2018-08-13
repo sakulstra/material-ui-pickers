@@ -1,5 +1,5 @@
 {
-  "name": "material-ui-pickers",
+  "name": "@sakulstra/material-ui-pickers",
   "version": "1.0.0-rc.13",
   "private": true,
   "description": "React components, that implements material design pickers for material-ui v1",

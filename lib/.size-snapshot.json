@@ -19,8 +19,8 @@
     }
   },
   "build/dist/material-ui-pickers.umd.js": {
-    "bundled": 779698,
-    "minified": 309917,
-    "gzipped": 76253
+    "bundled": 779709,
+    "minified": 309928,
+    "gzipped": 76262
   }
 }
